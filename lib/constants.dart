@@ -1,0 +1,21 @@
+import 'package:flutter/material.dart';
+const kPrimaryColor = Color(0xff1B202D);
+const kSecondaryColor = Color(0xff2E3342);
+const kThirdColor = Color(0xff7A8194);
+const kMessagesCollections = 'messages';
+const kUsersCollections = 'users';
+const kChatsCollections = 'chats';
+const kEmail = 'email';
+const kUserName = 'userName';
+const kUid = 'uid';
+const kCid = 'cid';
+const kMembers = 'members';
+const kRecentMessage = 'recentMessage';
+const kRecentMessageSender = 'recentMessageSender';
+const kRecentMessageTime = 'recentMessageTime';
+const kUserChats = 'userChats';
+const kMessage = 'message';
+const kTime = 'time';
+const kSender = 'sender';
+const kReceiver = 'receiver';
+
